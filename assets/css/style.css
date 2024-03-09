@@ -1,0 +1,34 @@
+.navigation .basket-icon{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.navigation .basket-icon i{
+    font-size: 25px;
+    position: relative;
+}
+
+
+.navigation .basket-icon .basket-count{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.navigation .basket-icon .basket-price{
+    position: absolute;
+    top: 5px;
+    right: 0;
+}
+
+#products .card-title{
+    height: 50px;
+}
+
+
+
+#products .card span{
+    font-size: 20px;
+    font-weight: 700;
+}
